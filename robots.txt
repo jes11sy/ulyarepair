@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ulyarepair.ru/sitemap.xml
+
